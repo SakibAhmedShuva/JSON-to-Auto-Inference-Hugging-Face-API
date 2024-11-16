@@ -1,5 +1,7 @@
 # JSON to Auto Inference Hugging Face API
 
+[Sorry, the project files have been made private]
+
 ## Overview
 
 This Flask-based microservice provides Named Entity Recognition (NER) inference capabilities using Hugging Face's Transformers library. The service allows you to perform named entity extraction on text data through a RESTful API.
